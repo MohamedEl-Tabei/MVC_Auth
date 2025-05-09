@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Mohamed\\ITI\\ITI-Tasks\\ASPDotNet_API_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47A49245-4974-4541-AF49-A8D9FBB52E8B}|ITI_API_BL\\ITI_API_BL.csproj|e:\\mohamed\\iti\\iti-tasks\\aspdotnet_api_3\\iti_api_bl\\manager\\student\\mangerstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47A49245-4974-4541-AF49-A8D9FBB52E8B}|ITI_API_BL\\ITI_API_BL.csproj|solutionrelative:iti_api_bl\\manager\\student\\mangerstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71546192-0C58-436A-A2D8-B77CDB96B6A6}|ITI_API_DAL\\ITI_API_DAL.csproj|e:\\mohamed\\iti\\iti-tasks\\aspdotnet_api_3\\iti_api_dal\\repository\\student\\repostudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71546192-0C58-436A-A2D8-B77CDB96B6A6}|ITI_API_DAL\\ITI_API_DAL.csproj|solutionrelative:iti_api_dal\\repository\\student\\repostudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71546192-0C58-436A-A2D8-B77CDB96B6A6}|ITI_API_DAL\\ITI_API_DAL.csproj|e:\\mohamed\\iti\\iti-tasks\\aspdotnet_api_3\\iti_api_dal\\repository\\student\\irepostudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71546192-0C58-436A-A2D8-B77CDB96B6A6}|ITI_API_DAL\\ITI_API_DAL.csproj|solutionrelative:iti_api_dal\\repository\\student\\irepostudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71546192-0C58-436A-A2D8-B77CDB96B6A6}|ITI_API_DAL\\ITI_API_DAL.csproj|e:\\mohamed\\iti\\iti-tasks\\aspdotnet_api_3\\iti_api_dal\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71546192-0C58-436A-A2D8-B77CDB96B6A6}|ITI_API_DAL\\ITI_API_DAL.csproj|solutionrelative:iti_api_dal\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71546192-0C58-436A-A2D8-B77CDB96B6A6}|ITI_API_DAL\\ITI_API_DAL.csproj|e:\\mohamed\\iti\\iti-tasks\\aspdotnet_api_3\\iti_api_dal\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71546192-0C58-436A-A2D8-B77CDB96B6A6}|ITI_API_DAL\\ITI_API_DAL.csproj|solutionrelative:iti_api_dal\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "E:\\Mohamed\\ITI\\ITI-Tasks\\ASPDotNet_API_3\\ITI_API_DAL\\Repository\\IRepository.cs",
+              "RelativeDocumentMoniker": "ITI_API_DAL\\Repository\\IRepository.cs",
+              "ToolTip": "E:\\Mohamed\\ITI\\ITI-Tasks\\ASPDotNet_API_3\\ITI_API_DAL\\Repository\\IRepository.cs",
+              "RelativeToolTip": "ITI_API_DAL\\Repository\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T10:42:41.305Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "E:\\Mohamed\\ITI\\ITI-Tasks\\ASPDotNet_API_3\\ITI_API_DAL\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "ITI_API_DAL\\Repository\\Repository.cs",
+              "ToolTip": "E:\\Mohamed\\ITI\\ITI-Tasks\\ASPDotNet_API_3\\ITI_API_DAL\\Repository\\Repository.cs",
+              "RelativeToolTip": "ITI_API_DAL\\Repository\\Repository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T10:42:45.531Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MangerStudent.cs",
+              "DocumentMoniker": "E:\\Mohamed\\ITI\\ITI-Tasks\\ASPDotNet_API_3\\ITI_API_BL\\Manager\\Student\\MangerStudent.cs",
+              "RelativeDocumentMoniker": "ITI_API_BL\\Manager\\Student\\MangerStudent.cs",
+              "ToolTip": "E:\\Mohamed\\ITI\\ITI-Tasks\\ASPDotNet_API_3\\ITI_API_BL\\Manager\\Student\\MangerStudent.cs",
+              "RelativeToolTip": "ITI_API_BL\\Manager\\Student\\MangerStudent.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAEoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T11:50:55.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RepoStudent.cs",
+              "DocumentMoniker": "E:\\Mohamed\\ITI\\ITI-Tasks\\ASPDotNet_API_3\\ITI_API_DAL\\Repository\\Student\\RepoStudent.cs",
+              "RelativeDocumentMoniker": "ITI_API_DAL\\Repository\\Student\\RepoStudent.cs",
+              "ToolTip": "E:\\Mohamed\\ITI\\ITI-Tasks\\ASPDotNet_API_3\\ITI_API_DAL\\Repository\\Student\\RepoStudent.cs",
+              "RelativeToolTip": "ITI_API_DAL\\Repository\\Student\\RepoStudent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T11:50:03.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRepoStudent.cs",
+              "DocumentMoniker": "E:\\Mohamed\\ITI\\ITI-Tasks\\ASPDotNet_API_3\\ITI_API_DAL\\Repository\\Student\\IRepoStudent.cs",
+              "RelativeDocumentMoniker": "ITI_API_DAL\\Repository\\Student\\IRepoStudent.cs",
+              "ToolTip": "E:\\Mohamed\\ITI\\ITI-Tasks\\ASPDotNet_API_3\\ITI_API_DAL\\Repository\\Student\\IRepoStudent.cs",
+              "RelativeToolTip": "ITI_API_DAL\\Repository\\Student\\IRepoStudent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T11:49:46.025Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a83394e3-39c2-4678-a3c8-364b69d78fd3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

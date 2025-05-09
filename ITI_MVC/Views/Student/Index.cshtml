@@ -1,0 +1,27 @@
+﻿@using ITI_API_BL
+@model List<DTOStudentRead>;
+<table class="table align-middle shadow table-hover">
+    <thead>
+        <tr class="table-danger">
+            <th class="p-3 text-center" scope="col">Id</th>
+            <th class="p-3 text-center" scope="col">Name</th>
+            <th class="p-3 text-center" scope="col">Address</th>
+            <th class="p-3 text-center" scope="col">Age</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var student in Model)
+        {
+            <tr>
+
+                <td class="p-3 text-center"><a asp-action="Update" asp-route-id="@student.Id"  asp-controller="Student" >@student.Id</a></td>
+                <td class="p-3 text-center">@student.Name</td>
+                <td class="p-3 text-center">@student.Address</td>
+                <td class="p-3 text-center">@student.Age</td>
+            </tr>
+
+        }
+
+
+    </tbody>
+</table>

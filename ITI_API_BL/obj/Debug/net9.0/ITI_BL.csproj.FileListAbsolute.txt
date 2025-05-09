@@ -1,0 +1,16 @@
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_MVC_2\ITI_API_BL\bin\Debug\net9.0\ITI_BL.deps.json
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_MVC_2\ITI_API_BL\bin\Debug\net9.0\ITI_BL.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_MVC_2\ITI_API_BL\bin\Debug\net9.0\ITI_BL.pdb
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_MVC_2\ITI_API_BL\bin\Debug\net9.0\ITI_DAL.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_MVC_2\ITI_API_BL\bin\Debug\net9.0\ITI_DAL.pdb
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_MVC_2\ITI_API_BL\obj\Debug\net9.0\ITI_BL.csproj.AssemblyReference.cache
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_MVC_2\ITI_API_BL\obj\Debug\net9.0\ITI_BL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_MVC_2\ITI_API_BL\obj\Debug\net9.0\ITI_BL.AssemblyInfoInputs.cache
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_MVC_2\ITI_API_BL\obj\Debug\net9.0\ITI_BL.AssemblyInfo.cs
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_MVC_2\ITI_API_BL\obj\Debug\net9.0\ITI_BL.csproj.CoreCompileInputs.cache
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_MVC_2\ITI_API_BL\obj\Debug\net9.0\ITI_BL.sourcelink.json
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_MVC_2\ITI_API_BL\obj\Debug\net9.0\ITI_BL.csproj.Up2Date
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_MVC_2\ITI_API_BL\obj\Debug\net9.0\ITI_BL.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_MVC_2\ITI_API_BL\obj\Debug\net9.0\refint\ITI_BL.dll
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_MVC_2\ITI_API_BL\obj\Debug\net9.0\ITI_BL.pdb
+E:\Mohamed\ITI\ITI-Tasks\ASPDotNet_MVC_2\ITI_API_BL\obj\Debug\net9.0\ref\ITI_BL.dll

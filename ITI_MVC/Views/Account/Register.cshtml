@@ -1,0 +1,25 @@
+﻿@using ITI_BL.DTO
+
+@model UserCreate
+<form class="container w-50 p-4 shadow d-flex flex-column" asp-action="register" method="post">
+	<div>
+		<label class="form-label" asp-for="Name"></label>
+		<input class="form-control" asp-for="Name" />
+		<span class="text-danger " asp-validation-for="Name"></span>
+	</div>
+	<div>
+		<label class="form-label" asp-for="Email"></label>
+		<input class="form-control" asp-for="Email" />
+		<span class="text-danger " asp-validation-for="Email"></span>
+	</div>
+	<div>
+		<label class="form-label" asp-for="Password"></label>
+		<input class="form-control" asp-for="Password" />
+		<span class="text-danger " asp-validation-for="Password"></span>
+	</div>
+	@Html.ValidationSummary(false, "", new { @class = "text-danger" })
+	<button class="btn btn-dark">Sign up</button>
+</form>
+@section Scripts {
+	<partial name="_ValidationScriptsPartial" />
+}
